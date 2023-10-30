@@ -20,7 +20,7 @@ arXiv Oct. 2023. [[Paper](https://arxiv.org/abs/2310.01412)]
 
 **Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving** \
 *Long Chen, Oleg Sinavski, Jan Hünermann, Alice Karnsund, Andrew James Willmott, Danny Birch, Daniel Maund, Jamie Shotton* \
-arXiv Oct. 2023. [[Paper](https://arxiv.org/abs/2310.01957)]
+arXiv Oct. 2023. [[Paper](https://arxiv.org/abs/2310.01957)][[Code](https://github.com/wayveai/Driving-with-LLMs)]
 
 **GPT-Driver: Learning to Drive with GPT** \
 *Jiageng Mao, Yuxi Qian, Hang Zhao, Yue Wang* \
